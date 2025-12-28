@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+playwright
+beautifulsoup4
+duckduckgo-search
+httpx
+jinja2
+python-multipart
+google-generativeai
+googlesearch-python
